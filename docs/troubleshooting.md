@@ -46,7 +46,7 @@ nav_order: 6
 
 ### PhysBoneつきギミックとの競合
 
-- <a href="{{ site.baseurl }}{% link setup.md %}">サポート</a> の競合対策（PhysBoneつきギミックを一緒に動かしたい場合）を確認してください
+- <a href="{{ site.baseurl }}{% link setup.md %}">アバターに入れる（セットアップ）</a> の競合対策（PhysBoneつきギミックを一緒に動かしたい場合）を確認してください
 
 ---
 
