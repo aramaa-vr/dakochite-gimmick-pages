@@ -23,22 +23,21 @@ nav_order: 12
 
 ---
 
-## 2. `_config.yml` の `baseurl` を公開URLに合わせる
+## 2. `_config.yml` の `baseurl` をリポジトリ名に合わせる
 
 `docs/_config.yml` に次が入っています。
 
 ```yml
 url: "https://aramaa-vr.github.io"
-baseurl: ""
+baseurl: "/dakochite-gimmick-pages"
 ```
 
 - 自分のGitHub IDが `aramaa-vr` ではない場合は `url` を変更します。
-- 公開URLが `https://<USER>.github.io/<REPO>/` の場合は `baseurl` を `"/<REPO>"` にします。
-- カスタムドメインやユーザー/組織ページ（`https://<USER>.github.io/`）で公開する場合は `baseurl` を空にします。
+- リポジトリ名が `dakochite-gimmick-pages` ではない場合は `baseurl` を変更します。
 
 ---
 
 ## 3. 公開後に画像が出ない時
 
-多くの場合、`baseurl` が公開URLのパスと一致していないのが原因です。  
+多くの場合、`baseurl` が実際のリポジトリ名と一致していないのが原因です。  
 `docs/_config.yml` を確認して、公開URLのパスと合わせてください。

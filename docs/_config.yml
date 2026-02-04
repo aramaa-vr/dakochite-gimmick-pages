@@ -4,7 +4,7 @@ description: VRChatアバター向け「みんなでつかめるだこちてギ�
 # 自分のGitHub Pagesに合わせて変更してください。
 # 例: url: "https://<YOUR_ID>.github.io" / baseurl: "/<REPO_NAME>"
 url: "https://aramaa-vr.github.io"
-baseurl: ""
+baseurl: "/dakochite-gimmick-pages"
 
 remote_theme: just-the-docs/just-the-docs
 plugins:
