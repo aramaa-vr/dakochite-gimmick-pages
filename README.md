@@ -10,6 +10,7 @@
 - `dakochite-gimmick-master.zip`（パッケージ本体のソース）
 - `みんなでつかめるだこちてギミック.zip`（説明書HTML）
 
-## 元リポジトリ
+## リポジトリ
 
-- `aramaa-vr/dakochite-gimmick`
+- 説明サイト（このリポジトリ）: `aramaa-vr/dakochite-gimmick-pages`
+- 開発データ: `aramaa-vr/dakochite-gimmick`

@@ -4,7 +4,7 @@ description: VRChatアバター向け「みんなでつかめるだこちてギ�
 # 自分のGitHub Pagesに合わせて変更してください。
 # 例: url: "https://<YOUR_ID>.github.io" / baseurl: "/<REPO_NAME>"
 url: "https://aramaa-vr.github.io"
-baseurl: "/dakochite-gimmick"
+baseurl: "/dakochite-gimmick-pages"
 
 remote_theme: just-the-docs/just-the-docs
 plugins:
@@ -13,7 +13,8 @@ plugins:
 search_enabled: true
 
 aux_links:
-  GitHub Repo: "https://github.com/aramaa-vr/dakochite-gimmick"
+  GitHub Repo: "https://github.com/aramaa-vr/dakochite-gimmick-pages"
+  開発データ: "https://github.com/aramaa-vr/dakochite-gimmick"
   Add to VCC: "https://aramaa-vr.github.io/vpm-repos/redirect.html"
   Booth: "https://aramaa.booth.pm/items/7016968"
   説明書（Google Docs）: "https://docs.google.com/document/d/141h1qxOo8ZeFPDXLFmx2fjn6jsYxf7dL6XJkSFxztec/edit?usp=sharing"
