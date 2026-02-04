@@ -16,7 +16,7 @@ nav_order: 2
 - VCCで作ったアバタープロジェクト
 - 依存パッケージ  
   - VRChat SDK: 3.10.1 以上  
-  - Modular Avatar: >=1.12.5 以上
+  - Modular Avatar: 1.12.5 以上
 
 ![VCCのUnityバージョン]({{ "/assets/img/dakochite/vcc-unity-version.webp" | relative_url }})
 
