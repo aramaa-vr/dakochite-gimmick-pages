@@ -29,11 +29,11 @@ nav_order: 12
 
 ```yml
 url: "https://aramaa-vr.github.io"
-baseurl: "/dakochite-gimmick"
+baseurl: "/dakochite-gimmick-pages"
 ```
 
 - 自分のGitHub IDが `aramaa-vr` ではない場合は `url` を変更します。
-- リポジトリ名が `dakochite-gimmick` ではない場合は `baseurl` を変更します。
+- リポジトリ名が `dakochite-gimmick-pages` ではない場合は `baseurl` を変更します。
 
 ---
 
@@ -41,4 +41,3 @@ baseurl: "/dakochite-gimmick"
 
 多くの場合、`baseurl` が実際のリポジトリ名と一致していないのが原因です。  
 `docs/_config.yml` を確認して、公開URLのパスと合わせてください。
-
