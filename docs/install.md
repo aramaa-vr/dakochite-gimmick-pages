@@ -50,9 +50,9 @@ nav_order: 2
 
 ---
 
-## 方法2: パッケージ（ZIP等）でインストール
+## 方法2: Boothのパッケージ（ZIP等）でインストール
 
-説明書では、パッケージをインポートする手順も記載されています。
+[Booth](https://aramaa.booth.pm/items/7016968)のパッケージをインポートする手順も記載されています。
 
 ![パッケージを開く]({{ "/assets/img/dakochite/install-unitypackage.webp" | relative_url }})
 ![インポート確認]({{ "/assets/img/dakochite/install-unitypackage-import.webp" | relative_url }})
