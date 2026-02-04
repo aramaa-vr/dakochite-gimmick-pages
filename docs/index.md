@@ -16,6 +16,7 @@ VRChatアバター向けの「抱っこされる」ギミックです。
   <a class="btn btn-primary" href="https://aramaa-vr.github.io/vpm-repos/redirect.html" target="_blank" rel="noopener noreferrer">ダウンロード（VCC）</a>
   <a class="btn" href="{{ site.baseurl }}{% link install.md %}">導入</a>
   <a class="btn" href="{{ site.baseurl }}{% link setup.md %}">セットアップ</a>
+  <a class="btn" href="https://vrc.group/LIFTME.6305">グループ</a>
 </div>
 
 <div class="home-secondary-links">
