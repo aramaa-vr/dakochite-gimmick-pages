@@ -12,11 +12,11 @@ nav_order: 2
 
 ## 事前準備（ここだけ確認）
 
-- Unity: **2022.3.22f1**
-- VCCで作ったアバタープロジェクト
+- Unity: **2022.3.22f1**  
+- VCCで作ったアバタープロジェクト「2022.3.22f1 avator project」  
 - 依存パッケージ  
   - VRChat SDK: 3.10.1 以上  
-  - Modular Avatar: 1.12.5 以上
+  - Modular Avatar: 1.12.5 以上  
 
 ![VCCのUnityバージョン]({{ "/assets/img/dakochite/vcc-unity-version.webp" | relative_url }})
 
