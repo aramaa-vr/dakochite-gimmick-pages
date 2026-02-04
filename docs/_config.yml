@@ -1,0 +1,27 @@
+title: dakochite-gimmick - みんなでつかめるだこちてギミック
+description: VRChatアバター向け「みんなでつかめるだこちてギミック」の導入・設定・遊び方ガイド（GitHub Pages）
+
+# 自分のGitHub Pagesに合わせて変更してください。
+# 例: url: "https://<YOUR_ID>.github.io" / baseurl: "/<REPO_NAME>"
+url: "https://aramaa-vr.github.io"
+baseurl: "/dakochite-gimmick"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+
+aux_links:
+  GitHub Repo: "https://github.com/aramaa-vr/dakochite-gimmick"
+  Add to VCC: "https://aramaa-vr.github.io/vpm-repos/redirect.html"
+  Booth: "https://aramaa.booth.pm/items/7016968"
+  説明書（Google Docs）: "https://docs.google.com/document/d/141h1qxOo8ZeFPDXLFmx2fjn6jsYxf7dL6XJkSFxztec/edit?usp=sharing"
+
+favicon_ico: "assets/img/favicon.ico"
+
+# Used by some themes / plugins for language hints.
+lang: "ja-JP"
+locale: "ja_JP"
+permalink: pretty
+footer_content: "© 2025 あらまあ素敵なショップ / dakochite-gimmick"
