@@ -28,14 +28,13 @@
 <meta name="twitter:image" content="{{ og_image }}" />
 <meta name="twitter:image:alt" content="だこちてギミックの紹介画像" />
 
-<link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico" sizes="any" />
-<link rel="icon" href="{{ site.baseurl }}/assets/img/favicon-256.png" type="image/png" />
+<link rel="icon" href="{{ "/assets/img/favicon.ico" | relative_url }}" sizes="any" />
+<link rel="icon" href="{{ "/assets/img/favicon-256.png" | relative_url }}" type="image/png" />
 
 {%- comment -%}
   Custom CSS (plain CSS file for beginner-friendly editing).
-  Use relative_url so it works with GitHub Pages baseurl.
 {%- endcomment -%}
 
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}" />
 
-<script defer src="{{ site.baseurl }}/assets/js/site.js"></script>
+<script defer src="{{ "/assets/js/site.js" | relative_url }}"></script>

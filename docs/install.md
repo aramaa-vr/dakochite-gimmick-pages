@@ -19,7 +19,7 @@ nav_order: 2
   - VRChat SDK（com.vrchat.avatars / com.vrchat.base）: >=3.8.2  
   - Modular Avatar: >=1.12.5 以上
 
-![VCCのUnityバージョン]({{ site.baseurl }}/assets/img/dakochite/vcc-unity-version.webp)
+![VCCのUnityバージョン]({{ "/assets/img/dakochite/vcc-unity-version.webp" | relative_url }})
 
 ---
 
@@ -29,24 +29,24 @@ nav_order: 2
    - 公式のリポジトリ追加ページから登録します。  
      - Add to VCC: [https://aramaa-vr.github.io/vpm-repos/redirect.html](https://aramaa-vr.github.io/vpm-repos/redirect.html)
 
-![VCCにリポジトリ追加]({{ site.baseurl }}/assets/img/dakochite/vcc-add-repo.webp)
-![VCCリポジトリ追加（確認）]({{ site.baseurl }}/assets/img/dakochite/vcc-add-repo-confirm.webp)
-![Confirm]({{ site.baseurl }}/assets/img/dakochite/vcc-confirm.webp)
+![VCCにリポジトリ追加]({{ "/assets/img/dakochite/vcc-add-repo.webp" | relative_url }})
+![VCCリポジトリ追加（確認）]({{ "/assets/img/dakochite/vcc-add-repo-confirm.webp" | relative_url }})
+![Confirm]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})
 
 2. **プロジェクトに追加**  
    - VCCで、だこちてギミックを入れたいプロジェクトの **Manage Project** を開きます。
 
-![Manage Project]({{ site.baseurl }}/assets/img/dakochite/vcc-manage-project.webp)
+![Manage Project]({{ "/assets/img/dakochite/vcc-manage-project.webp" | relative_url }})
 
 3. **検索してインストール**  
    - 「dakochite-gimmick - みんなでつかめるだこちてギミック」で検索 → 「＋」で追加します。
 
-![検索して追加]({{ site.baseurl }}/assets/img/dakochite/vcc-search-package.webp)
+![検索して追加]({{ "/assets/img/dakochite/vcc-search-package.webp" | relative_url }})
 
 4. **アップデート（以降）**  
    - 説明書では「インストール以降はVCCのマネージャーでボタンを押すだけでアップデートできる」と記載されています。
 
-![VCCでアップデート]({{ site.baseurl }}/assets/img/dakochite/vcc-update.webp)
+![VCCでアップデート]({{ "/assets/img/dakochite/vcc-update.webp" | relative_url }})
 
 ---
 
@@ -54,9 +54,9 @@ nav_order: 2
 
 説明書では、パッケージをインポートする手順も記載されています。
 
-![パッケージを開く]({{ site.baseurl }}/assets/img/dakochite/install-unitypackage.webp)
-![インポート確認]({{ site.baseurl }}/assets/img/dakochite/install-unitypackage-import.webp)
-![インポート完了]({{ site.baseurl }}/assets/img/dakochite/install-unitypackage-done.webp)
+![パッケージを開く]({{ "/assets/img/dakochite/install-unitypackage.webp" | relative_url }})
+![インポート確認]({{ "/assets/img/dakochite/install-unitypackage-import.webp" | relative_url }})
+![インポート完了]({{ "/assets/img/dakochite/install-unitypackage-done.webp" | relative_url }})
 
 > 注意: 説明書では「インストール以降はVCCのマネージャーでボタンを押すだけでアップデートできる」とも書かれています。  
 > ただし **パッケージ導入の更新手順** はプロジェクト構成に依存するため、迷ったら「VCC導入」をおすすめします。
@@ -67,7 +67,7 @@ nav_order: 2
 
 説明書には「Modular Avatar - 1.12.5以上が入っていないとエラーが発生」と記載があります。
 
-![Modular Avatar バージョン不足の例]({{ site.baseurl }}/assets/img/dakochite/ma-version-error.webp)
+![Modular Avatar バージョン不足の例]({{ "/assets/img/dakochite/ma-version-error.webp" | relative_url }})
 
 ---
 
