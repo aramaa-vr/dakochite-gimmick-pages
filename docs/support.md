@@ -7,7 +7,7 @@ nav_order: 11
 # サポート / 問い合わせ
 
 このページは「困ったときに何を添えると伝わりやすいか」をまとめたものです。  
-解決しない場合は、[Discode](https://discord.gg/BJ3BpVnMn) の「📩┃相談┃」で新しい投稿をお願いします。
+解決しない場合は、[Discode](https://discord.gg/BJ3BpVnMna) の「📩┃相談┃」で新しい投稿をお願いします。
 
 ---
 
