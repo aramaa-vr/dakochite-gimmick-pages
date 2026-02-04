@@ -57,8 +57,8 @@ nav_order: 2
 ![インポート確認]({{ "/assets/img/dakochite/install-unitypackage-import.webp" | relative_url }})
 ![インポート完了]({{ "/assets/img/dakochite/install-unitypackage-done.webp" | relative_url }})
 
-> 注意: インストール以降はVCCのマネージャーでボタンを押すだけでアップデートできます。  
-> ただし **パッケージ導入の更新手順** はプロジェクト構成に依存するため、迷ったら「VCC導入」をおすすめします。
+4. **マネージャーで設定後（以降）**  
+   - インストール以降はVCCのマネージャーでボタンを押すだけでアップデートできます。
 
 ---
 
