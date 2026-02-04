@@ -18,27 +18,27 @@ nav_order: 6
 
 - **大きなメニュー → アバター → アバターインタラクション**
 
-![アバターインタラクション]({{ site.baseurl }}/assets/img/dakochite/settings-avatar-interaction.webp)
+![アバターインタラクション]({{ "/assets/img/dakochite/settings-avatar-interaction.webp" | relative_url }})
 
 「相手が自分を掴めるか」を可視化する例として、説明書に画像が掲載されています。
 
-![可視化1]({{ site.baseurl }}/assets/img/dakochite/settings-visualize1.webp)
-![可視化2]({{ site.baseurl }}/assets/img/dakochite/settings-visualize2.webp)
+![可視化1]({{ "/assets/img/dakochite/settings-visualize1.webp" | relative_url }})
+![可視化2]({{ "/assets/img/dakochite/settings-visualize2.webp" | relative_url }})
 
 ### 相手側にしてもらう設定（説明書）
 
 説明書では「抱っこしてもらいたい相手のステータスを見る」→（条件により）相手側に設定をお願いする必要がある、と書かれています。
 
-![相手のステータス]({{ site.baseurl }}/assets/img/dakochite/settings-other-status.webp)
-![相手にお願いする例]({{ site.baseurl }}/assets/img/dakochite/settings-other-ask.webp)
+![相手のステータス]({{ "/assets/img/dakochite/settings-other-status.webp" | relative_url }})
+![相手にお願いする例]({{ "/assets/img/dakochite/settings-other-ask.webp" | relative_url }})
 
 相手側にお願いする項目として、説明書には次が記載されています。
 
 - **Show アバター** をお願いする
 - **アバターインタラクション設定の上書き** をお願いする
 
-![Showアバター]({{ site.baseurl }}/assets/img/dakochite/settings-other-show-avatar.webp)
-![上書き]({{ site.baseurl }}/assets/img/dakochite/settings-other-override.webp)
+![Showアバター]({{ "/assets/img/dakochite/settings-other-show-avatar.webp" | relative_url }})
+![上書き]({{ "/assets/img/dakochite/settings-other-override.webp" | relative_url }})
 
 ---
 
@@ -60,8 +60,8 @@ nav_order: 6
 - `MissingReferenceException` が稀に発生することがある  
 - 対応方法: **Unityを終了して再起動** するとエラーが消える
 
-![MissingReferenceException例1]({{ site.baseurl }}/assets/img/dakochite/issue-missingreference1.webp)
-![MissingReferenceException例2]({{ site.baseurl }}/assets/img/dakochite/issue-missingreference2.webp)
+![MissingReferenceException例1]({{ "/assets/img/dakochite/issue-missingreference1.webp" | relative_url }})
+![MissingReferenceException例2]({{ "/assets/img/dakochite/issue-missingreference2.webp" | relative_url }})
 
 ---
 
@@ -72,7 +72,7 @@ nav_order: 6
 - AvatarPoseSystem と一緒に入れると、抱っこした際にHipのメッシュが飛び出る場合がある  
 - 対応方法: AvatarPoseSystem を最新にすると共存できる、とテスター報告がある
 
-![Hipのメッシュ例]({{ site.baseurl }}/assets/img/dakochite/issue-hip-mesh.webp)
+![Hipのメッシュ例]({{ "/assets/img/dakochite/issue-hip-mesh.webp" | relative_url }})
 
 ---
 
@@ -93,7 +93,7 @@ nav_order: 6
 - 古いパッケージ（1.0.0以前）がある状態で VCC に更新すると、プレハブが破損する  
 - 対応方法: ツールで **削除→再生成**（アバターごとに一回）
 
-![プレハブ破損の例]({{ site.baseurl }}/assets/img/dakochite/issue-prefab-broken.webp)
+![プレハブ破損の例]({{ "/assets/img/dakochite/issue-prefab-broken.webp" | relative_url }})
 
 ---
 
@@ -103,5 +103,5 @@ nav_order: 6
 
 - 対応方法: **パーソナルスペースをOFF** にする
 
-![パーソナルスペース]({{ site.baseurl }}/assets/img/dakochite/issue-personal-space.webp)
+![パーソナルスペース]({{ "/assets/img/dakochite/issue-personal-space.webp" | relative_url }})
 

@@ -5,7 +5,7 @@ description: VRChatアバター向け「だこちてギミック」の導入・�
 nav_order: 1
 ---
 
-![だこちてギミック]({{ site.baseurl }}/assets/img/dakochite/hero.webp){: .home-hero-img }
+![だこちてギミック]({{ "/assets/img/dakochite/hero.webp" | relative_url }}){: .home-hero-img }
 
 # みんなでつかめるだこちてギミック
 

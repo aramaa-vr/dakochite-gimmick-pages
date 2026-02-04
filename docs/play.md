@@ -13,8 +13,8 @@ nav_order: 4
 
 ## 1. エクスプレッションメニュー
 
-![エクスプレッションメニュー]({{ site.baseurl }}/assets/img/dakochite/menu-expression.webp)
-![エクスプレッションメニュー（詳細）]({{ site.baseurl }}/assets/img/dakochite/menu-expression-sub.webp)
+![エクスプレッションメニュー]({{ "/assets/img/dakochite/menu-expression.webp" | relative_url }})
+![エクスプレッションメニュー（詳細）]({{ "/assets/img/dakochite/menu-expression-sub.webp" | relative_url }})
 
 ### 機能一覧（まずは概要だけ）
 
@@ -59,7 +59,7 @@ nav_order: 4
 
 - VRChat内で表示できる簡易説明書、と記載があります。
 
-![VRChat内説明書]({{ site.baseurl }}/assets/img/dakochite/menu-help.webp)
+![VRChat内説明書]({{ "/assets/img/dakochite/menu-help.webp" | relative_url }})
 
 #### だこちて視点On
 
@@ -90,12 +90,12 @@ nav_order: 4
 - **青い球体** に手が触れた状態で掴むと抱っこできます。  
   （説明書注: 画像はPhysBoneの当たり判定を可視化しており、実際は透明）
 
-![当たり判定イメージ]({{ site.baseurl }}/assets/img/dakochite/grab-hitbox.webp)
+![当たり判定イメージ]({{ "/assets/img/dakochite/grab-hitbox.webp" | relative_url }})
 
 手順イメージ（説明書の図）
 
-![抱っこ：手順1]({{ site.baseurl }}/assets/img/dakochite/grab-step1.webp)
-![抱っこ：手順2]({{ site.baseurl }}/assets/img/dakochite/grab-step2.webp)
+![抱っこ：手順1]({{ "/assets/img/dakochite/grab-step1.webp" | relative_url }})
+![抱っこ：手順2]({{ "/assets/img/dakochite/grab-step2.webp" | relative_url }})
 
 ---
 
