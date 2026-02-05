@@ -42,3 +42,4 @@ baseurl: "/dakochite-gimmick-pages"
 
 多くの場合、`baseurl` が実際のリポジトリ名と一致していないのが原因です。  
 `docs/_config.yml` を確認して、公開URLのパスと合わせてください。
+git lfsを利用していると画像が出ないので注意
