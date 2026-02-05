@@ -1,7 +1,8 @@
 ---
 title: 公開（GitHub Pages）
 description: GitHub Pages（docs/）でこの説明サイトを公開する手順。
-nav_order: 12
+nav_exclude: true
+search_exclude: true
 ---
 
 # 公開（GitHub Pages）
@@ -41,3 +42,4 @@ baseurl: "/dakochite-gimmick-pages"
 
 多くの場合、`baseurl` が実際のリポジトリ名と一致していないのが原因です。  
 `docs/_config.yml` を確認して、公開URLのパスと合わせてください。
+git lfsを利用していると画像が出ないので注意
