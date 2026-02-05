@@ -1,7 +1,8 @@
 ---
 title: 公開（GitHub Pages）
 description: GitHub Pages（docs/）でこの説明サイトを公開する手順。
-nav_order: 12
+nav_exclude: true
+search_exclude: true
 ---
 
 # 公開（GitHub Pages）
