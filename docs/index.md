@@ -48,7 +48,3 @@ VRChatアバター向けの「抱っこされる」ギミックです。
   <span class="sep">·</span>
   <a href="{{ site.baseurl }}{% link support.md %}">サポート</a>
 </div>
-
-<div class="home-actions home-actions--minimal">
-  <a class="btn" href="https://vrc.group/LIFTME.6305">VRChat Group だこちて！たかいたかい！</a>
-</div>
