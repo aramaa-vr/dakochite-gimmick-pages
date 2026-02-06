@@ -41,7 +41,7 @@ nav_order: 2
 
 3. **プロジェクトに追加**  
    - VCCで「Settings → Packages → Installed Repositories」の一覧中で、「aramaa」にチェックが付いていることを確認します。  
-   - （チェックが外れていると、バージョンの更新やManage Projectのリストに出てこないので注意！！）。  
+   - （チェックが外れていると、バージョンの更新やManage Projectのリストに出てこないので注意！！）  
  ![Added]({{ "/assets/img/dakochite/vrcc_repo_opt_q82.webp" | relative_url }})  
 
    - VCCで、だこちてギミックを入れたいプロジェクトの **Manage Project** を開きます。
