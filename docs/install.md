@@ -28,11 +28,21 @@ nav_order: 2
    - 公式のリポジトリ追加ページから登録します。  
      - Add to VCC: [https://aramaa-vr.github.io/vpm-repos/redirect.html](https://aramaa-vr.github.io/vpm-repos/redirect.html)
 
-![VCCにリポジトリ追加]({{ "/assets/img/dakochite/vcc-add-repo.webp" | relative_url }})
-![VCCリポジトリ追加（確認）]({{ "/assets/img/dakochite/vcc-add-repo-confirm.webp" | relative_url }})
-![Confirm]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})
+![VCCにリポジトリ追加]({{ "/assets/img/dakochite/vcc-add-repo.webp" | relative_url }})  
 
-2. **プロジェクトに追加**  
+2. **既にプロジェクトに入っている場合**  
+こちらが出た場合、既に追加済みになります。  
+「プロジェクトに追加」へ進んでください。  
+「You have already added this repository. You can't add it again.」  
+![Added]({{ "/assets/img/dakochite/vcc-settings-repo-added-q75.webp" | relative_url }})  
+![Confirm]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})  
+
+![VCCリポジトリ追加（確認）]({{ "/assets/img/dakochite/vcc-add-repo-confirm.webp" | relative_url }})  
+
+3. **プロジェクトに追加**  
+   - VCCで「Settings → Packages → Installed Repositories」の一覧中で、「aramaa」にチェックが付いていることを確認します。  
+ ![Added]({{ "/assets/img/dakochite/vrcc_repo_opt_q82.webp" | relative_url }})  
+
    - VCCで、だこちてギミックを入れたいプロジェクトの **Manage Project** を開きます。
 
 ![Manage Project]({{ "/assets/img/dakochite/vcc-manage-project.webp" | relative_url }})
