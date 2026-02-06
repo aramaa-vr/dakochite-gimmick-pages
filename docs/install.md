@@ -45,8 +45,8 @@ nav_order: 2
 
 #### 「すでに追加済み」と表示された場合
 
-`You have already added this repository. You can't add it again.` と表示されたら**正常**です。  
-**追加済みなので、手順2へ進んでください。**
+`You have already added this repository. You can't add it again.` と表示される場合は **追加済み** になります。
+なので、**手順2へ進んでください。**
 
 ![VCCでリポジトリが追加済みと表示された画面]({{ "/assets/img/dakochite/vcc-settings-repo-added-q75.webp" | relative_url }})
 ![VCCで追加確認ダイアログが表示された画面]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})
