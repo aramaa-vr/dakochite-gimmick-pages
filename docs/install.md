@@ -32,6 +32,8 @@ nav_order: 2
 3. `dakochite-gimmick` を検索して追加
 4. 2回目以降はVCCで更新
 
+> 目安時間: **3〜5分**
+
 ---
 
 ### 1) Add to VCC でリポジトリ追加
@@ -56,6 +58,7 @@ nav_order: 2
 
 - `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**ことを確認
 - 導入したいプロジェクトの **Manage Project** を押す
+- そのまま **Manage Project 画面の Packages タブ**で、手順3の検索を行います
 
 ![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/dakochite/vrcc_repo_opt_q82.webp" | relative_url }})
 ![VCCでManage Projectを開く画面]({{ "/assets/img/dakochite/vcc-manage-project.webp" | relative_url }})
@@ -97,13 +100,14 @@ nav_order: 2
 
 まずは以下を確認してください。
 
-- VRChat SDK が **3.10.1以上** か
-- Modular Avatar が **1.12.5以上** か
+- VRChat SDK が **3.10.1 以上** か
+- Modular Avatar が **1.12.5 以上** か
 - 追加先が目的のプロジェクトか（Manage Projectを開き間違えていないか）
+- VCCを再起動し、Manage Projectを開き直したか
 
 ### Modular Avatar不足エラー
 
-`Modular Avatar 1.12.5以上` が入っていない場合、エラーが発生します。  
+`Modular Avatar 1.12.5 以上` が入っていない場合、エラーが発生します。  
 先にModular Avatarを導入・更新してから、再度だこちてギミックを追加してください。
 
 ![Modular Avatar バージョン不足エラーの例]({{ "/assets/img/dakochite/ma-version-error.webp" | relative_url }})
