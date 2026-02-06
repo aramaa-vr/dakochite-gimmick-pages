@@ -45,8 +45,9 @@ nav_order: 2
 
 #### 「すでに追加済み」と表示された場合
 
-`You have already added this repository. You can't add it again.` と表示される場合は **追加済み** になります。
-なので、**手順2へ進んでください。**
+`You have already added this repository. You can't add it again.` と表示される場合は、  
+既にVCCにだこちてギミックが **追加済み** になります。  
+なので、**手順2へ進んでください。**  
 
 ![VCCでリポジトリが追加済みと表示された画面]({{ "/assets/img/dakochite/vcc-settings-repo-added-q75.webp" | relative_url }})
 ![VCCで追加確認ダイアログが表示された画面]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})
@@ -57,10 +58,12 @@ nav_order: 2
 ### 2) 対象プロジェクトを開く
 
 - `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**ことを確認
-- 導入したいプロジェクトの **Manage Project** を押す
-- そのまま **Manage Project 画面の Packages タブ**で、手順3の検索を行います
 
 ![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/dakochite/vrcc_repo_opt_q82.webp" | relative_url }})
+
+- `Projects -> 導入したいプロジェクト` の **Manage Project** を押す
+- そのまま **Manage Project 画面の Packages タブ**で、手順3の検索を行います
+
 ![VCCでManage Projectを開く画面]({{ "/assets/img/dakochite/vcc-manage-project.webp" | relative_url }})
 
 ---
