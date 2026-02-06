@@ -105,6 +105,7 @@ nav_order: 2
 
 - VRChat SDK が **3.10.1 以上** か
 - Modular Avatar が **1.12.5 以上** か
+- `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**か
 - 追加先が目的のプロジェクトか（Manage Projectを開き間違えていないか）
 - VCCを再起動し、Manage Projectを開き直したか
 
