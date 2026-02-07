@@ -96,11 +96,12 @@ nav_order: 2
 **VCCが使える環境では方法1を推奨**します。
 
 1. UnityPackageを開く
-2. Import内容を確認
-3. Importして完了
+2. Importする
+3. アップデート設定 
 
 ![Unityでパッケージを開く画面]({{ "/assets/img/dakochite/install-unitypackage.webp" | relative_url }})
 ![Unityでインポート内容を確認する画面]({{ "/assets/img/dakochite/install-unitypackage-import.webp" | relative_url }})
+- Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa
 ![Unityでインポートが完了した画面]({{ "/assets/img/dakochite/install-unitypackage-done.webp" | relative_url }})
 
 ---
