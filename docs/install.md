@@ -17,7 +17,7 @@ nav_order: 2
 - VCCで作成したアバタープロジェクト（例: `2022.3.22f1 avatar project`）
 - 依存パッケージ
   - VRChat SDK: **3.10.1 以上**
-  - Modular Avatar: **1.12.5 以上**
+  - [Modular Avatar](https://modular-avatar.nadena.dev/ja/): **1.12.5 以上** 
 
 ![VCCのUnityバージョン]({{ "/assets/img/dakochite/vcc-unity-version.webp" | relative_url }})
 
@@ -51,7 +51,7 @@ nav_order: 2
 
 ![VCCでリポジトリが追加済みと表示された画面]({{ "/assets/img/dakochite/vcc-settings-repo-added-q75.webp" | relative_url }})
 ![VCCで追加確認ダイアログが表示された画面]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})
-![VCCリポジトリ追加の確認画面]({{ "/assets/img/dakochite/vcc-add-repo-confirm.webp" | relative_url }})
+
 
 ---
 
@@ -73,6 +73,8 @@ nav_order: 2
 `dakochite-gimmick - みんなでつかめるだこちてギミック` を検索し、**「＋」** を押して追加します。
 
 ![VCCでdakochite-gimmickを検索して追加する画面]({{ "/assets/img/dakochite/vcc-search-package.webp" | relative_url }})
+
+![VCCリポジトリ追加の確認画面]({{ "/assets/img/dakochite/vcc-add-repo-confirm.webp" | relative_url }})
 
 ---
 
