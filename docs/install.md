@@ -101,7 +101,8 @@ nav_order: 2
 
 ![Unityでパッケージを開く画面]({{ "/assets/img/dakochite/install-unitypackage.webp" | relative_url }})
 ![Unityでインポート内容を確認する画面]({{ "/assets/img/dakochite/install-unitypackage-import.webp" | relative_url }})
-- Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa
+アップデートできるようにする
+- Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa をチェック
 ![Unityでインポートが完了した画面]({{ "/assets/img/dakochite/install-unitypackage-done.webp" | relative_url }})
 
 ---
