@@ -52,14 +52,18 @@ nav_order: 2
 ![VCCでリポジトリが追加済みと表示された画面]({{ "/assets/img/dakochite/vcc-settings-repo-added-q75.webp" | relative_url }})
 ![VCCで追加確認ダイアログが表示された画面]({{ "/assets/img/dakochite/vcc-confirm.webp" | relative_url }})
 
+---
+
+### 2) リポジトリの確認をする
+
+- `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**ことを確認
+- （チェックがないとリストに表示されません）
+
+![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/dakochite/vrcc_repo_opt_q82.webp" | relative_url }})
 
 ---
 
-### 2) 対象プロジェクトを開く
-
-- `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**ことを確認
-
-![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/dakochite/vrcc_repo_opt_q82.webp" | relative_url }})
+### 3) 対象プロジェクトを開く
 
 - `Projects -> 導入したいプロジェクト` の **Manage Project** を押す
 - そのまま **Manage Project 画面の Packages タブ**で、手順3の検索を行います
@@ -68,7 +72,7 @@ nav_order: 2
 
 ---
 
-### 3) `dakochite-gimmick` を検索して追加
+### 4) `dakochite-gimmick` を検索して追加
 
 `dakochite-gimmick - みんなでつかめるだこちてギミック` を検索し、**「＋」** を押して追加します。
 
@@ -78,7 +82,7 @@ nav_order: 2
 
 ---
 
-### 4) 2回目以降のアップデート
+### 5) 2回目以降のアップデート
 
 導入後は、VCCのマネージャー画面から更新ボタンを押すだけでアップデートできます。
 
