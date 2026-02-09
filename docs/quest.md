@@ -16,15 +16,15 @@ nav_order: 5
 1. **PC版アバターを先にアップロード** して、正常に動作することを確認します。
 2. **VRCQuestTools を起動** します。
 
-![VRCQuestTools起動]({{ "/assets/img/dakochite/questtools-launch.webp" | relative_url }})
+![VRCQuestTools起動]({{ "/assets/img/dakochite/pages/quest/questtools-launch.webp" | relative_url }})
 
 3. `HoldGimickAndCamera` の以下のボーンを入れる。
 
-![ボーン選択]({{ "/assets/img/dakochite/questtools-bone-select.webp" | relative_url }})
+![ボーン選択]({{ "/assets/img/dakochite/pages/quest/questtools-bone-select.webp" | relative_url }})
 
 4. **変換する**。
 
-![変換]({{ "/assets/img/dakochite/questtools-convert.webp" | relative_url }})
+![変換]({{ "/assets/img/dakochite/pages/quest/questtools-convert.webp" | relative_url }})
 
 ---
 
@@ -33,9 +33,9 @@ nav_order: 5
 自動生成された `Assets/VRCQuestToolsOutput/アバターの名前/Materials` 内のマテリアル設定を、  
 **「VRChat/Mobile/Particle Additive」** に変更する。
 
-![生成マテリアル]({{ "/assets/img/dakochite/questtools-materials.webp" | relative_url }})
-![Mobile/Particle Additive]({{ "/assets/img/dakochite/questtools-mobile-shader.webp" | relative_url }})
-![例]({{ "/assets/img/dakochite/questtools-material-example.webp" | relative_url }})
+![生成マテリアル]({{ "/assets/img/dakochite/pages/quest/questtools-materials.webp" | relative_url }})
+![Mobile/Particle Additive]({{ "/assets/img/dakochite/pages/quest/questtools-mobile-shader.webp" | relative_url }})
+![例]({{ "/assets/img/dakochite/pages/quest/questtools-material-example.webp" | relative_url }})
 
 ---
 
@@ -45,7 +45,7 @@ nav_order: 5
 
 - **Quest版は「だこちて視点On」を利用できません。**
 
-![Quest版では視点On不可]({{ "/assets/img/dakochite/questtools-no-viewpoint.webp" | relative_url }})
+![Quest版では視点On不可]({{ "/assets/img/dakochite/pages/quest/questtools-no-viewpoint.webp" | relative_url }})
 
 ---
 
@@ -56,7 +56,7 @@ nav_order: 5
 - 基本は **PC用からVRCQuestToolsで作り直す** のが良い。
 - 時間がない場合は、以下の部分（パーティクル、音、カメラ）を **EditorOnly** にするとビルドが通ります。
 
-![Hierarchy例]({{ "/assets/img/dakochite/questtools-hierarchy-editoronly.webp" | relative_url }})
-![EditorOnly設定例1]({{ "/assets/img/dakochite/questtools-editoronly-mark.webp" | relative_url }})
-![EditorOnly設定例2]({{ "/assets/img/dakochite/questtools-editoronly-mark2.webp" | relative_url }})
+![Hierarchy例]({{ "/assets/img/dakochite/pages/quest/questtools-hierarchy-editoronly.webp" | relative_url }})
+![EditorOnly設定例1]({{ "/assets/img/dakochite/pages/quest/questtools-editoronly-mark.webp" | relative_url }})
+![EditorOnly設定例2]({{ "/assets/img/dakochite/pages/quest/questtools-editoronly-mark2.webp" | relative_url }})
 
