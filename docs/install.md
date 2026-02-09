@@ -42,6 +42,7 @@ nav_order: 2
 [https://aramaa-vr.github.io/vpm-repos/redirect.html](https://aramaa-vr.github.io/vpm-repos/redirect.html)
 
 ![VCCにリポジトリ追加する画面]({{ "/assets/img/dakochite/pages/install/vcc-add-repo.webp" | relative_url }})
+![VCCリポジトリ追加の確認画面]({{ "/assets/img/dakochite/pages/install/vcc-add-repo-confirm.webp" | relative_url }})
 
 #### 「すでに追加済み」と表示された場合
 
@@ -50,7 +51,6 @@ nav_order: 2
 なので、**手順2へ進んでください。**  
 
 ![VCCでリポジトリが追加済みと表示された画面]({{ "/assets/img/dakochite/pages/install/vcc-settings-repo-added-q75.webp" | relative_url }})
-![VCCで追加確認ダイアログが表示された画面]({{ "/assets/img/dakochite/pages/install/vcc-confirm.webp" | relative_url }})
 
 ---
 
@@ -77,8 +77,7 @@ nav_order: 2
 `dakochite-gimmick - みんなでつかめるだこちてギミック` を検索し、**「＋」** を押して追加します。
 
 ![VCCでdakochite-gimmickを検索して追加する画面]({{ "/assets/img/dakochite/pages/install/vcc-search-package.webp" | relative_url }})
-
-![VCCリポジトリ追加の確認画面]({{ "/assets/img/dakochite/pages/install/vcc-add-repo-confirm.webp" | relative_url }})
+![VCCで追加確認ダイアログが表示された画面]({{ "/assets/img/dakochite/pages/install/vcc-confirm.webp" | relative_url }})
 
 ---
 
