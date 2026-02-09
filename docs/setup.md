@@ -16,7 +16,7 @@ nav_order: 3
 
 ## 1. ツールを開く
 
-![ツールの場所]({{ "/assets/img/dakochite/tool-menu.webp" | relative_url }})
+![ツールの場所]({{ "/assets/img/dakochite/pages/setup/tool-menu.webp" | relative_url }})
 
 ---
 
@@ -24,7 +24,7 @@ nav_order: 3
 
 だこちてギミックと一緒に動かしたいギミック（PhysBone付き）をドラッグ&ドロップで設定できます。
 
-![競合対策の設定]({{ "/assets/img/dakochite/tool-conflict-dnd.webp" | relative_url }})
+![競合対策の設定]({{ "/assets/img/dakochite/pages/setup/tool-conflict-dnd.webp" | relative_url }})
 
 ---
 
@@ -32,16 +32,16 @@ nav_order: 3
 
 1. だこちてギミックを入れたいアバターを選んで、ツールで対象に指定します。
 
-![アバターを指定]({{ "/assets/img/dakochite/tool-select-avatar.webp" | relative_url }})
+![アバターを指定]({{ "/assets/img/dakochite/pages/setup/tool-select-avatar.webp" | relative_url }})
 
 2. **「ギミックを生成 / 削除」** を実行します。  
    - 生成時にダイアログで **OK** を押します。
 
-![生成ダイアログ]({{ "/assets/img/dakochite/tool-generate-dialog.webp" | relative_url }})
+![生成ダイアログ]({{ "/assets/img/dakochite/pages/setup/tool-generate-dialog.webp" | relative_url }})
 
 3. セットアップ完了の例。
 
-![セットアップ完了]({{ "/assets/img/dakochite/tool-done.webp" | relative_url }})
+![セットアップ完了]({{ "/assets/img/dakochite/pages/setup/tool-done.webp" | relative_url }})
 
 > 以下の改変を行った時など、PhysBoneをアバターに追加した際は再度セットアップしてください。  
 > つまり **アバター側のPhysBone構成を変えたら、もう一度生成** が推奨されています。
@@ -58,7 +58,7 @@ GestureManagerなどでUnity上で一度プレイして動作確認後、いつ�
 
 ツールの『ギミックを生成 / 削除』をクリックすると削除されます。
 
-![削除]({{ "/assets/img/dakochite/tool-delete.webp" | relative_url }})
+![削除]({{ "/assets/img/dakochite/pages/setup/tool-delete.webp" | relative_url }})
 
 ---
 

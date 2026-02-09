@@ -12,8 +12,8 @@ VRChat上での操作（エクスプレッションメニュー／掴み方）
 
 ## 1. エクスプレッションメニュー
 
-![エクスプレッションメニュー]({{ "/assets/img/dakochite/menu-expression.webp" | relative_url }})
-![エクスプレッションメニュー（詳細）]({{ "/assets/img/dakochite/menu-expression-sub.webp" | relative_url }})
+![エクスプレッションメニュー]({{ "/assets/img/dakochite/pages/play/menu-expression.webp" | relative_url }})
+![エクスプレッションメニュー（詳細）]({{ "/assets/img/dakochite/pages/play/menu-expression-sub.webp" | relative_url }})
 
 ### 機能一覧（まずは概要だけ）
 
@@ -58,7 +58,7 @@ VRChat上での操作（エクスプレッションメニュー／掴み方）
 
 - VRChat内で表示できる簡易説明書です。
 
-![VRChat内説明書]({{ "/assets/img/dakochite/menu-help.webp" | relative_url }})
+![VRChat内説明書]({{ "/assets/img/dakochite/pages/play/menu-help.webp" | relative_url }})
 
 #### だこちて視点On
 
@@ -89,12 +89,12 @@ VRChat上での操作（エクスプレッションメニュー／掴み方）
 - **青い球体** に手が触れた状態で掴むと抱っこできます。  
   （画像はPhysBoneの当たり判定を可視化しており、実際は透明）
 
-![当たり判定イメージ]({{ "/assets/img/dakochite/grab-hitbox.webp" | relative_url }})
+![当たり判定イメージ]({{ "/assets/img/dakochite/pages/play/grab-hitbox.webp" | relative_url }})
 
 手順イメージ（説明書の図）
 
-![抱っこ：手順1]({{ "/assets/img/dakochite/grab-step1.webp" | relative_url }})
-![抱っこ：手順2]({{ "/assets/img/dakochite/grab-step2.webp" | relative_url }})
+![抱っこ：手順1]({{ "/assets/img/dakochite/pages/play/grab-step1.webp" | relative_url }})
+![抱っこ：手順2]({{ "/assets/img/dakochite/pages/play/grab-step2.webp" | relative_url }})
 
 ---
 
