@@ -94,15 +94,17 @@ nav_order: 2
 [Booth](https://aramaa.booth.pm/items/7016968) からダウンロードしたパッケージをUnityに直接インポートする方法です。  
 **VCCが使える環境では方法1を推奨**します。
 
-1. UnityPackageを開く
-2. Importする
-3. アップデート設定 
+1. UnityPackageを開く  
+2. Importする  
+3. アップデート設定  
 
 ![Unityでパッケージを開く画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage.webp" | relative_url }})
 ![Unityでインポート内容を確認する画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage-import.webp" | relative_url }})
 
 アップデートできるようにする  
-- Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa をチェック  
+- 一度VCCを終了した後、起動してください。  
+- Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa をチェック
+
 ![Unityでインポートが完了した画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage-done.webp" | relative_url }})
 
 ---
