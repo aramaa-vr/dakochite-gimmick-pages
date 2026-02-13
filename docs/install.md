@@ -25,7 +25,7 @@ nav_order: 2
 
 ## 方法1: VCCで導入（推奨）
 
-<details close markdown="1">
+<details open markdown="1">
 <summary>詳細を表示</summary>
 
 ### 迷ったらこの4ステップ
