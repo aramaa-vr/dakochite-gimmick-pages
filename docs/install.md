@@ -102,7 +102,11 @@ nav_order: 2
 ![Unityでインポート内容を確認する画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage-import.webp" | relative_url }})
 
 アップデートできるようにする  
-- 一度VCCを終了した後、起動してください。  
+- 一度VCCを終了した後、起動してください。
+- `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**ことを確認
+
+![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/ochibi-chans-converter-tool/pages/install/vrcc_repo_opt_q82.webp" | relative_url }})
+
 - Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa をチェック
 
 ![Unityでインポートが完了した画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage-done.webp" | relative_url }})
