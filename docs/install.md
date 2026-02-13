@@ -25,6 +25,9 @@ nav_order: 2
 
 ## 方法1: VCCで導入（推奨）
 
+<details close markdown="1">
+<summary>詳細を表示</summary>
+
 ### 迷ったらこの4ステップ
 
 1. Add to VCC でリポジトリ追加
@@ -87,9 +90,12 @@ nav_order: 2
 
 ![VCCでアップデートする画面]({{ "/assets/img/dakochite/pages/install/vcc-update.webp" | relative_url }})
 
----
+</details>
 
 ## 方法2: BoothのZIP / UnityPackageで導入
+
+<details close markdown="1">
+<summary>詳細を表示</summary>
 
 [Booth](https://aramaa.booth.pm/items/7016968) からダウンロードしたパッケージをUnityに直接インポートする方法です。  
 **VCCが使える環境では方法1を推奨**します。
@@ -111,7 +117,7 @@ nav_order: 2
 
 ![Unityでインポートが完了した画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage-done.webp" | relative_url }})
 
----
+</details>
 
 ## うまくいかないとき（よくあるケース）
 
