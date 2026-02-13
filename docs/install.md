@@ -105,7 +105,7 @@ nav_order: 2
 - 一度VCCを終了した後、起動してください。
 - `Settings → Packages → Installed Repositories` で、**aramaa にチェックがある**ことを確認
 
-![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/ochibi-chans-converter-tool/pages/install/vrcc_repo_opt_q82.webp" | relative_url }})
+![VCCのInstalled Repositoriesでaramaaチェックを確認する画面]({{ "/assets/img/dakochite/pages/install/vrcc_repo_opt_q82.webp" | relative_url }})
 
 - Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa をチェック
 
