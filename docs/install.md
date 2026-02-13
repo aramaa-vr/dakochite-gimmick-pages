@@ -41,8 +41,7 @@ nav_order: 2
 
 ### 1) Add to VCC でリポジトリ追加
 
-以下のページを開き、**Add to VCC** を押します。  
-[https://aramaa-vr.github.io/vpm-repos/redirect.html](https://aramaa-vr.github.io/vpm-repos/redirect.html)
+<a class="btn btn-primary" href="https://aramaa-vr.github.io/vpm-repos/redirect.html" target="_blank" rel="noopener noreferrer">ダウンロード（VCC）</a>
 
 ![VCCにリポジトリ追加する画面]({{ "/assets/img/dakochite/pages/install/vcc-add-repo.webp" | relative_url }})
 ![VCCリポジトリ追加の確認画面]({{ "/assets/img/dakochite/pages/install/vcc-add-repo-confirm.webp" | relative_url }})
