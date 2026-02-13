@@ -90,8 +90,6 @@ nav_order: 2
 
 ![VCCでアップデートする画面]({{ "/assets/img/dakochite/pages/install/vcc-update.webp" | relative_url }})
 
----
-
 </details>
 
 ## 方法2: BoothのZIP / UnityPackageで導入
@@ -118,8 +116,6 @@ nav_order: 2
 - Projects -> 導入したいプロジェクト の Manage Project -> Selected Repos -> Multiple Repositories -> aramaa をチェック
 
 ![Unityでインポートが完了した画面]({{ "/assets/img/dakochite/pages/install/install-unitypackage-done.webp" | relative_url }})
-
----
 
 </details>
 
